@@ -33,4 +33,6 @@ public class ForwardKinematics {
 	private static Node computePositions(Segment link, double baseX, double baseY, double accumulatedAngle) {
 		// TODO: Implemente este método
 	}
+	//Terminar de implementar los métodos restantes
+	
 }
