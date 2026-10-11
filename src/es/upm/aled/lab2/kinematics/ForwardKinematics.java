@@ -35,6 +35,6 @@ public class ForwardKinematics {
 	}
 	
 	
-	//Terminar la práctica
+	//Terminar la práctica ya esta semana
 	
 }
