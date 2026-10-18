@@ -34,7 +34,6 @@ public class ForwardKinematics {
 		// TODO: Implemente este método
 	}
 	
-	
-	//Terminar la práctica ya esta semana
+	//Terminar esta práctica y la siguiente 
 	
 }
